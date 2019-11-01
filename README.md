@@ -3,7 +3,7 @@ Finding triads in a network by importing a Gephi edge list into a directed netwo
 
 Thoroughly documented and intended for Python novices.
 
-If you have a separate nodes table (with unique IDs and labels) and edges table (with unique IDs but no labels), you can use the [Node Labeler for Edges Data](node_labeler_for _edges_data.ipynb) notebook first to create a file you can use for finding triads. So, if you're starting with:
+If you have a separate nodes table (with unique IDs and labels) and edges table (with unique IDs but no labels), you can use the *Node Labeler for Edges Data* notebook first to create a file you can use for finding triads. So, if you're starting with:
 
 **Nodes**
 
